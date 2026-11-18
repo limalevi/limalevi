@@ -3,7 +3,7 @@ Sou estudante de Engenharia de Software. Fique a vontade para ver meus repositó
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/levil.ma/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Levil9490&layout=compact)](https://github.com/Levil9490)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limalevi&layout=compact)](https://github.com/limalevi)
 
 ## Tecnologias que eu utilizo
 
